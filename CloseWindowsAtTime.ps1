@@ -1,4 +1,4 @@
-﻿$TimeToOff = Read-Host "Enter time in 24 format that PC should shut down [xx:xx]"
+﻿$TimeToOff = Read-Host "Enter time in 24 hour format that PC should shut down [xx:xx]"
 Write-Host "Now computer will be closed automatically."
 Write-Host "Waiting..."
 $TimeNow = Get-Date -Format HH:mm
