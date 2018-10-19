@@ -1,0 +1,7 @@
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\bin\Debug\PCoff.exe.config
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\bin\Debug\PCoff.exe
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\bin\Debug\PCoff.pdb
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\obj\Debug\PCoff.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\obj\Debug\PCoff.exe
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\obj\Debug\PCoff.pdb
+C:\Users\Michal\Desktop\Pliczki\c#\PCoff\PCoff\PCoff\obj\Debug\PCoff.csprojAssemblyReference.cache
