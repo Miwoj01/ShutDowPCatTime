@@ -14,7 +14,7 @@ namespace PCoff
             Console.WriteLine("3. Close system at time.");
             Console.WriteLine("4. Exit.");
             Console.Write("Choose your option: ");
-            int choose = Console.Read();
+            int choose = int.Parse(Console.ReadLine());
             Console.Clear();
             return choose;
         }
@@ -71,10 +71,10 @@ namespace PCoff
                 Console.Clear();
                 switch (Menu())
                 {
-                    case '1': Shutdown_pc(); break;
-                    case '2': Reebot(); break;
-                    case '3': At_time(); break;
-                    case '4': Environment.Exit(0); break;
+                    case 1: Shutdown_pc(); break;
+                    case 2: Reebot(); break;
+                    case 3: At_time(); break;
+                    case 4: Environment.Exit(0); break;
                     default: { Console.WriteLine("There is not that option yet."); Thread.Sleep(250); } break;
                 }
             }
